@@ -15,7 +15,8 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Nanum Brush Script', cursive;
+    /*font-family: 'Lobster', cursive;*/
+    font-family: 'Nanum Pen Script', cursive;
 }
 
 .date {
@@ -45,12 +46,18 @@ h1, h2, h3, h4 {
     color: #000000;
 }
 
+.comment {
+    margin: 20px 0px 20px 20px;
+}
+
 /*h1 a, h2 a {*/
     /*color: #FCA205;*/
     /*font-family: 'Lobster';*/
 /*}*/
+
 /*body {*/
     /*padding-left: 15px;*/
 /*}*/
 
-/* 브라우저 캐시 삭제  f12키로 개발자 도구 활성화 후, 새로고침 아이콘 우측 마우스 클릭*/
+/* 브라우저 캐시 삭제 F12 키로 개발자 도구 활성화 후, 새로고침 아이콘 우측 마우스 클릭*/
+
